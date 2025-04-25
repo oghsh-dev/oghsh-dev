@@ -1,7 +1,3 @@
-## Hi, I'm Octa 🖖
+# Hi, I'm Octa 🖖
 
-I am a passionately curious Software Engineer building with Javascript.
-
-
-
-
+I am a passionately curious Software Engineer, Musician and Maker.
